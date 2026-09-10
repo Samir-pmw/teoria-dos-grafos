@@ -1,6 +1,6 @@
-# Grafo em Python
+# Teoria dos grafos
 
-Versão em Python da implementação do capítulo sobre representação de grafos.
+Versão da implementação do capítulo sobre representação de grafos.
 
 O pacote inclui:
 
